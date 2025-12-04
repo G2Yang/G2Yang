@@ -7,6 +7,44 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
 
 ---
 
+## 📌 Featured Projects
+
+<!-- Example Project Card -->
+<div style="display:inline-block; text-align:center; margin:20px;">
+  <!-- Circle -->
+  <div style="
+    width:150px; 
+    height:150px; 
+    border-radius:50%; 
+    background:#4CAF50; 
+    display:flex; 
+    align-items:center; 
+    justify-content:center; 
+    color:white; 
+    font-weight:bold; 
+    font-size:16px;
+    margin-bottom:15px;">
+    Task Manager App
+  </div>
+  
+  <!-- Button -->
+  <a href="https://github.com/username/task-app](https://github.com/G2Yang/Decisions-App" 
+     style="
+       display:inline-block; 
+       padding:10px 20px; 
+       background:#008CBA; 
+       color:white; 
+       text-decoration:none; 
+       border-radius:8px; 
+       font-weight:bold;">
+    🔗 View Code
+  </a>
+</div>
+
+-->
+
+---
+
 ## 🛠️ Technologies & Tools
 
 **Languages:** Java, Kotlin, Swift, Dart, C#, Python, JavaScript, HTML5, CSS  
@@ -50,23 +88,6 @@ Teamwork · Problem-solving · Adaptability · Constructive feedback · Creativi
 ## 🌍 Languages
 
 Spanish (native) · Catalan (fluent) · English (conversational)  
-
----
-
-## 📌 Featured Projects
-
-<!-- 
-Here you can add your most important projects with links to repositories or demos. 
-Example:
-
-### 📱 Task Management App
-Mobile app built with Flutter to manage tasks with Firebase sync.  
-[🔗 View repository](https://github.com/username/task-app)
-
-### 🌐 Personal Portfolio
-Personal website built with React and Astro, deployed on Azure.  
-[🔗 View repository](https://github.com/username/portfolio-web)
--->
 
 ---
 
