@@ -6,6 +6,7 @@
 Currently expanding my knowledge in iOS development, with a strong interest in building efficient and optimized mobile applications.  
 
 ---
+
 <div align="center">
 
 ## 📌 Featured Projects
