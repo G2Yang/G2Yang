@@ -11,17 +11,13 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
 
 ## 📌 Featured Projects
 
-### 🟢 Task Manager App  
-Efficient mobile app built with Flutter to manage tasks and sync with Firebase.  
-[![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/task-app)
-
----
-
-### 🟠 Portfolio Website  
-Personal website built with React and Astro, deployed on Azure.  
-[![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/portfolio-web)
+| 🟢 Task Manager App | 🟠 Portfolio Website |
+|---------------------|----------------------|
+| Mobile app built with Flutter to manage tasks and sync with Firebase. | Personal website built with React and Astro, deployed on Azure. |
+| [![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/task-app) | [![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/portfolio-web) |
 
 </div>
+
 
 
 ---
