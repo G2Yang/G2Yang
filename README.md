@@ -11,69 +11,18 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
 
 ## 📌 Featured Projects
 
-<!-- Example Project Card -->
-<div style="display:inline-block; text-align:center; margin:20px;">
-  <!-- Circle -->
-  <div style="
-    width:150px; 
-    height:150px; 
-    border-radius:50%; 
-    background:#4CAF50; 
-    display:flex; 
-    align-items:center; 
-    justify-content:center; 
-    color:white; 
-    font-weight:bold; 
-    font-size:16px;
-    margin-bottom:15px;">
-    Task Manager App
-  </div>
-  
-  <!-- Button -->
-  <a href="https://github.com/username/task-app" 
-     style="
-       display:inline-block; 
-       padding:10px 20px; 
-       background:#008CBA; 
-       color:white; 
-       text-decoration:none; 
-       border-radius:8px; 
-       font-weight:bold;">
-    🔗 View Code
-  </a>
-</div>
+### 🟢 Task Manager App  
+Efficient mobile app built with Flutter to manage tasks and sync with Firebase.  
+[![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/task-app)
 
-<!-- Another Project -->
-<div style="display:inline-block; text-align:center; margin:20px;">
-  <div style="
-    width:150px; 
-    height:150px; 
-    border-radius:50%; 
-    background:#FF9800; 
-    display:flex; 
-    align-items:center; 
-    justify-content:center; 
-    color:white; 
-    font-weight:bold; 
-    font-size:16px;
-    margin-bottom:15px;">
-    Portfolio Website
-  </div>
-  
-  <a href="https://github.com/username/portfolio-web" 
-     style="
-       display:inline-block; 
-       padding:10px 20px; 
-       background:#008CBA; 
-       color:white; 
-       text-decoration:none; 
-       border-radius:8px; 
-       font-weight:bold;">
-    🔗 View Code
-  </a>
-</div>
+---
+
+### 🟠 Portfolio Website  
+Personal website built with React and Astro, deployed on Azure.  
+[![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/portfolio-web)
 
 </div>
+
 
 ---
 
