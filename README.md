@@ -7,6 +7,8 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
 
 ---
 
+<div align="center">
+
 ## 📌 Featured Projects
 
 <!-- Example Project Card -->
@@ -28,7 +30,7 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
   </div>
   
   <!-- Button -->
-  <a href="https://github.com/username/task-app](https://github.com/G2Yang/Decisions-App" 
+  <a href="https://github.com/username/task-app" 
      style="
        display:inline-block; 
        padding:10px 20px; 
@@ -41,7 +43,37 @@ Currently expanding my knowledge in iOS development, with a strong interest in b
   </a>
 </div>
 
--->
+<!-- Another Project -->
+<div style="display:inline-block; text-align:center; margin:20px;">
+  <div style="
+    width:150px; 
+    height:150px; 
+    border-radius:50%; 
+    background:#FF9800; 
+    display:flex; 
+    align-items:center; 
+    justify-content:center; 
+    color:white; 
+    font-weight:bold; 
+    font-size:16px;
+    margin-bottom:15px;">
+    Portfolio Website
+  </div>
+  
+  <a href="https://github.com/username/portfolio-web" 
+     style="
+       display:inline-block; 
+       padding:10px 20px; 
+       background:#008CBA; 
+       color:white; 
+       text-decoration:none; 
+       border-radius:8px; 
+       font-weight:bold;">
+    🔗 View Code
+  </a>
+</div>
+
+</div>
 
 ---
 
