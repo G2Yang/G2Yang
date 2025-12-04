@@ -28,8 +28,8 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
       <h3>📱 Foodly App</h3>
       <p>Application that generates a recipe based on a photo with ai.</p>
       <p>
-        <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
         <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
       </p>
