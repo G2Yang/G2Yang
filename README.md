@@ -25,14 +25,15 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>📱 Task Manager App</h3>
-      <p>Mobile task management application with Firebase synchronization.</p>
+      <h3>📱 Foodly App</h3>
+      <p>Application that generates a recipe based on a photo with ai.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
       </p>
-      <a href="https://github.com/username/task-app">
+      <a href="https://github.com/G2Yang/Foodly">
         <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
       </a>
     </td>
