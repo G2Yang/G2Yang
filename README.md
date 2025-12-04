@@ -12,14 +12,14 @@ Actualmente ampliando mis conocimientos en desarrollo iOS, con un gran interés 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📱 Task Manager App</h3>
-      <p>Aplicación móvil para gestión de tareas con sincronización en Firebase.</p>
+      <h3>🎯 Decisions App</h3>
+      <p>Aplicación iOS para tomar decisiones mediante un sistema de ruleta. Desarrollada con SwiftUI y Firebase.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
       </p>
-      <a href="https://github.com/username/task-app">
+      <a href="https://github.com/G2Yang/Decisions-App">
         <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github" alt="Ver Código"/>
       </a>
     </td>
@@ -143,7 +143,7 @@ Actualmente ampliando mis conocimientos en desarrollo iOS, con un gran interés 
 
 ### ⭐ ¡No dudes en explorar mis repositorios y contactarme si quieres colaborar!
 
-![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=G2Yang&color=blueviolet&style=flat-square)
 
 </div>
 
