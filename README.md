@@ -17,7 +17,8 @@ Actualmente ampliando mis conocimientos en desarrollo iOS, con un gran interés 
       <p>
         <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+        <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
       </p>
       <a href="https://github.com/G2Yang/Decisions-App">
         <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github" alt="Ver Código"/>
