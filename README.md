@@ -6,19 +6,33 @@
 Currently expanding my knowledge in iOS development, with a strong interest in building efficient and optimized mobile applications.  
 
 ---
-
 <div align="center">
 
 ## 📌 Featured Projects
 
-| 🟢 Task Manager App | 🟠 Portfolio Website |
-|---------------------|----------------------|
-| Mobile app built with Flutter to manage tasks and sync with Firebase. | Personal website built with React and Astro, deployed on Azure. |
-| [![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/task-app) | [![View Code](https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github)](https://github.com/username/portfolio-web) |
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td align="center" width="50%">
+      <h3>🟢 Task Manager App</h3>
+      <p>Mobile app built with Flutter to manage tasks and sync with Firebase.</p>
+      <a href="https://github.com/username/task-app">
+        <img src="https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github" alt="View Code"/>
+      </a>
+    </td>
+
+    <!-- Card 2 -->
+    <td align="center" width="50%">
+      <h3>🟠 Portfolio Website</h3>
+      <p>Personal website built with React and Astro, deployed on Azure.</p>
+      <a href="https://github.com/username/portfolio-web">
+        <img src="https://img.shields.io/badge/View_Code-008CBA?style=for-the-badge&logo=github" alt="View Code"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-
 
 ---
 
