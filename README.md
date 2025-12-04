@@ -15,7 +15,7 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
       <h3>🎯 Decisions App</h3>
       <p>iOS application for making decisions using a roulette system. Developed with SwiftUI and Firebase.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
         <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
