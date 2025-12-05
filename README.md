@@ -17,7 +17,7 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
+        <img src="https://img.shields.io/badge/platform-android-000000?&logoColor=white" alt="Platform">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
       </p>
       <a href="https://github.com/G2Yang/Decisions-App">
@@ -30,7 +30,7 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
       <p>
         <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/platform-android-000000?logo=apple&logoColor=white" alt="Platform">
+        <img src="https://img.shields.io/badge/platform-android-000000?&logoColor=white" alt="Platform">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
       </p>
       <a href="https://github.com/G2Yang/Foodly">
