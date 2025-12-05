@@ -149,8 +149,5 @@ Currently expanding my knowledge in iOS development, with a strong interest in c
 
 </div>
 
----
-
-*✨ README designed to showcase my professional profile clearly and attractively.*
 
 </div>
